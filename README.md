@@ -65,7 +65,7 @@ Prophet เป็นโมเดลที่พัฒนาโดยทีมง
 
 ---
 # รันโค้ดทั้งหมดด้วย Apache Airflow บน Amazon EC2 โดยใช้ Prophet Model ในการทำนายราคา Bitcoin (BTC)
-![EC2](https://drive.google.com/1dMTXIcNaa914zBxZm_qTu7C-je5MIzmd)
+![EC2](https://drive.google.com/uc?id=1dMTXIcNaa914zBxZm_qTu7C-je5MIzmd)
 
 ## 📊 ผลลัพธ์ค่า MAPE จาก Prophet Model
 
