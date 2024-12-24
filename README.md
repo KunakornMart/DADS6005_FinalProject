@@ -13,6 +13,25 @@
 | 8     | นายกฤษฎา อรัญชราธร        | 6610422026     |
 
 ---
+# การพยากรณ์ราคา BTC ด้วยโมเดลต่าง ๆ
+![Overview](https://drive.google.com/file/d/1f9ldfmz2gUWrgVchHNrQ8q9-hw-44iEN/view?usp=drive_link)
+## ผลลัพธ์จากการรันโมเดล
+
+1. **Linear Regression**  
+   ![Linear Regression Result](images/linear_regression.png)
+
+2. **Prophet Model**  
+   ![Decision Tree Result](images/decision_tree.png)
+
+3. **XGBoost**  
+   ![XGBoost Result](images/xgboost.png)
+
+4. **Random Forest**  
+   ![Random Forest Result](images/random_forest.png)
+
+5. **LSTM**  
+   ![LSTM Result](images/lstm.png)
+
 
 ## 📈 ML Models Selection
 ทดลองรัน ML Model จำนวน 5 models ในวันที่ 20 ธันวาคม 2567 เพื่อพิจารณาเลือก Model ที่เหมาะสมสำหรับการทำนายราคา BTC
