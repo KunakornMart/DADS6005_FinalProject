@@ -14,23 +14,24 @@
 
 ---
 # การพยากรณ์ราคา BTC ด้วยโมเดลต่าง ๆ
-![Overview](https://drive.google.com/file/d/1f9ldfmz2gUWrgVchHNrQ8q9-hw-44iEN/view?usp=drive_link)
+![Overview](https://drive.google.com/uc?id=1f9ldfmz2gUWrgVchHNrQ8q9-hw-44iEN)
+
 ## ผลลัพธ์จากการรันโมเดล
 
 1. **Linear Regression**  
-   ![Linear Regression Result](images/linear_regression.png)
+   ![Linear Regression Result](https://drive.google.com/uc?id=1WaCaEiWSx5lahe--ZyHhfEW_5bw8VsHe)
 
 2. **Prophet Model**  
-   ![Decision Tree Result](images/decision_tree.png)
+   ![Decision Tree Result](https://drive.google.com/uc?id=1kLjx5wbf_SUw4tbYBS8OBgWtTh4c3QCY)
 
 3. **XGBoost**  
-   ![XGBoost Result](images/xgboost.png)
+   ![XGBoost Result](https://drive.google.com/uc?id=19qIAhTvp-4uQpVqjRoJsURy0oZP5EtQ7)
 
 4. **Random Forest**  
-   ![Random Forest Result](images/random_forest.png)
+   ![Random Forest Result](https://drive.google.com/uc?id=1AeYVEQ01OekuTwwJMK6gCRJz5mgrxuI6)
 
 5. **LSTM**  
-   ![LSTM Result](images/lstm.png)
+   ![LSTM Result](https://drive.google.com/uc?id=1ZlicYoEMlmfCIOELqmDPbtKtgU3L2NB2)
 
 
 ## 📈 ML Models Selection
@@ -62,10 +63,21 @@ Prophet เป็นโมเดลที่พัฒนาโดยทีมง
 ---
 
 ## 📊 ผลลัพธ์ค่า MAPE จาก Prophet Model
+
+**ช่วงเวลา: 22.00น. ของวันที่ 21 ธันวาคม 2567 - 6.00น. ของวันที่ 22 ธันวาคม 2567**  
+   ![Linear Regression Result](https://drive.google.com/uc?id=1y-LmiSZlzC6S0aPdDUq3r_kTQRXAV0jh)
+
+**ช่วงเวลา: 22.00น. ของวันที่ 22 ธันวาคม 2567 - 6.00น. ของวันที่ 23 ธันวาคม 2567**  
+   ![Decision Tree Result](https://drive.google.com/uc?id=1up1v7taT9rSKYBhyaI9GpyfLnOsaMrp8)
+
+**ช่วงเวลา: 22.00น. ของวันที่ 23 ธันวาคม 2567 - 6.00น. ของวันที่ 24 ธันวาคม 2567**  
+   ![XGBoost Result](https://drive.google.com/uc?id=19RU94p3jKaBHfF9Agtq_dBbwxN9sNF-s)
+   
+
 | ช่วงเวลา                                      | ค่าเฉลี่ย MAPE |
 |--------------------------------------------|---------------|
-| 22.00น. ของวันที่ 21 - 6.00น. ของวันที่ 22 | ...           |
-| 22.00น. ของวันที่ 22 - 6.00น. ของวันที่ 23 | ...           |
-| 22.00น. ของวันที่ 23 - 6.00น. ของวันที่ 24 | ...           |
+| 22.00น. ของวันที่ 21 - 6.00น. ของวันที่ 22 ธ.ค. 2567 | 0.275053654           |
+| 22.00น. ของวันที่ 22 - 6.00น. ของวันที่ 23 ธ.ค. 2567 | 0.423694658          |
+| 22.00น. ของวันที่ 23 - 6.00น. ของวันที่ 24 ธ.ค. 2567 | 0.387907306          |
 
 **🔗 ดูโค้ดของทุกโมเดลและผลลัพธ์เพิ่มเติมได้ที่:** [Google Drive](https://drive.google.com/drive/folders/1bSWRsJju8P64TNbWimIEthTEEHGv72Mj?usp=sharing )
