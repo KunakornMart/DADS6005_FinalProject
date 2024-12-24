@@ -1,0 +1,7 @@
+apache-airflow-providers-mongo==3.0.0
+scikit-learn
+statsmodels
+prophet
+pymongo
+xgboost
+tensorflow
