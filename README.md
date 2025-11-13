@@ -1,6 +1,6 @@
 # DADS6005 Final Project (DADS5) - Predicting the Live Price of Bitcoin (BTC)
 ---
-## ❤️ About the Final Project
+## About the Final Project
 
 โครงการนี้เกี่ยวข้องกับการพยากรณ์ราคา Bitcoin โดยกำหนดช่วงเวลา 22:00 - 06:00 น. ของแต่ละวันระหว่างวันที่ 21 - 24 ธันวาคม 2567 โดยตั้งเวลาให้การทำงานของระบบเกิดขึ้นทุก ๆ 5 นาที และทำการคำนวณค่าเฉลี่ยของร้อยละความผิดพลาดสัมบูรณ์ (Mean Absolute Percentage Error - MAPE) ทุกชั่วโมง (โดยกำหนด len=12)
 
